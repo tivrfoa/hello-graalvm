@@ -1,2 +1,0 @@
-- name: GitHub Action for GraalVM
-  uses: graalvm/setup-graalvm@v1
